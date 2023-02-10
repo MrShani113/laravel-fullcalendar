@@ -1,23 +1,23 @@
 # Laravel Full Calendar Helper
 
-[![Latest Stable Version](https://poser.pugx.org/progcode/laravel-fullcalendar/v/stable)](https://packagist.org/packages/progcode/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/progocode/laravel-fullcalendar/downloads)](https://packagist.org/packages/progcode/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/progcode/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/progcode/laravel-fullcalendar) [![License](https://poser.pugx.org/progcode/laravel-fullcalendar/license)](https://packagist.org/packages/progcode/laravel-fullcalendar)
+[![Latest Stable Version](https://poser.pugx.org/mrshani113/laravel-fullcalendar/v/stable)](https://packagist.org/packages/mrshani113/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/mrshani113/laravel-fullcalendar/downloads)](https://packagist.org/packages/mrshani113/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/mrshani113/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/mrshani113/laravel-fullcalendar) [![License](https://poser.pugx.org/mrshani113/laravel-fullcalendar/license)](https://packagist.org/packages/mrshani113/laravel-fullcalendar)
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 
 ## Installing
 Require the package with composer using the following command:
 
-    composer require progcode/laravel-fullcalendar
+    composer require mrshani113/laravel-fullcalendar
 
 Or add the following to your composer.json's require section and `composer update`
 
 ```json
 "require": {
-	"progcode/laravel-fullcalendar": "~1.3.3"
+	"mrshani113/laravel-fullcalendar": "~1.3.4"
 }
 ```
 
-### Laravel 5.5+
+### Laravel 8.0+
 The provider and `Calendar` alias will be registered automatically.
 
 You will also need to include [fullcalendar.io](http://fullcalendar.io/)'s files in your HTML.

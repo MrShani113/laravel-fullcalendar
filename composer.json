@@ -1,16 +1,16 @@
 {
-    "name": "progcode/laravel-fullcalendar",
+    "name": "mrshani113/laravel-fullcalendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "authors": [
         {
-            "name": "Shawn Tunney",
-            "email": "shawn.tunney@gmail.com"
+            "name": "Sajjad Tahir",
+            "email": "mrshani113@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "~5.0|^6.0|^7.0"
+         "php": "^8.0",
+        "illuminate/support": "^8.0|^9.0"
     },
     "autoload": {
         "psr-0": {
